@@ -1,0 +1,18 @@
+.wrapper-nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 70px;
+    border-bottom: solid 2px black;
+}
+
+.menu-list-div > ul > li{
+    text-decoration: none;
+    list-style: none;
+    align-items: center;
+}
+
+.menu-list{
+    display: flex;
+}
+

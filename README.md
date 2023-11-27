@@ -1,3 +1,6 @@
+#TODO:
+- need to make it 1920px for whole page so the products remain 3x3 when listed regardless of zoom-out
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +71,82 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+      {/* <ProductCard
+        title="Blue Shirt"
+        category="Shirts"
+        price="$20"
+        image={redshirt}
+      />
+      <ProductCard
+        title="White Shirt"
+        category="Shirts"
+        price="$20"
+        image={redshirt}
+      />
+      <ProductCard
+        title="Blue Shirt"
+        category="Shirts"
+        price="$20"
+        image={redshirt}
+      />
+      <ProductCard
+        title="White Shirt"
+        category="Shirts"
+        price="$20"
+        image={redshirt}
+      />
+      <ProductCard
+        title="Blue Shirt"
+        category="Shirts"
+        price="$20"
+        image={redshirt}
+      />
+      <ProductCard
+        title="White Shirt"
+        category="Shirts"
+        price="$20"
+        image={redshirt}
+      />
+      <ProductCard
+        title="Red Pant"
+        category="Pants"
+        price="$30"
+        image={redpants}
+      />
+      <ProductCard
+        title="Red Pant"
+        category="Pants"
+        price="$30"
+        image={redpants}
+      />
+      <ProductCard
+        title="Red Pant"
+        category="Pants"
+        price="$30"
+        image={redpants}
+      />
+      <ProductCard
+        title="Red Pant"
+        category="Pants"
+        price="$30"
+        image={redpants}
+      />
+      <ProductCard
+        title="Red Pant"
+        category="Pants"
+        price="$30"
+        image={redpants}
+      />
+      <ProductCard
+        title="Red Pant"
+        category="Pants"
+        price="$30"
+        image={redpants}
+      />
+      <ProductCard
+        title="Red Pant"
+        category="Pants"
+        price="$30"
+        image={redpants}
+      /> */}

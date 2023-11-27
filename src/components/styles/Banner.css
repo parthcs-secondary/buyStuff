@@ -1,0 +1,16 @@
+.wrapper-banner{
+    height: 700px;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 30px;
+}
+
+.banner-holder-div{
+    height: 100%;
+    width: 80%;
+    background-image: url(/public/images/banner-image.jpg);
+    background-size: cover;
+}
